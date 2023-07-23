@@ -11,7 +11,7 @@
 
 <p>
  Um ponto que funciona como uma ponte entre o Design Thinking e a Metodologia Ágil no
-desenvolvimento da loja gamer é o foco no usuário e na interação contínu
+desenvolvimento da loja gamer é o foco no usuário e na interação contínu.
 </p>
 
 <p>
