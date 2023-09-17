@@ -3,7 +3,7 @@
 
 <div align="center">
 <a href="https://docs.google.com/document/d/13hYRBdPApzNfd0h2nX8Ay8NS-NKtCei553zWbLFdJ-g/edit?usp=sharing" target="_blank">
-<img src="https://github.com/SidneyTeodoroJr/Design-Thinking-UX-Metodologias-Ageis/blob/main/print-screen.png" alt="gradient">
+<img src="https://github.com/SidneyTeodoroJr/Design-Thinking-UX-Metodologias-Ageis/blob/main/print-screen.png" alt="Design Thinking">
 </a>
 </div>
 </br> 
