@@ -21,7 +21,7 @@ público-alvo é essencial para identificar os problemas e oportunidades reais q
 no desenvolvimento da loja gamer.
 </p>
 
-<h3 align="left"><a href="https://docs.google.com/document/d/13hYRBdPApzNfd0h2nX8Ay8NS-NKtCei553zWbLFdJ-g/edit?usp=sharing">Documento ao vivo ></a></h3>
+<a href="https://github.com/SidneyTeodoroJr/Design-Thinking-UX-Metodologias-Ageis/blob/main/Design%20Thinking%2C%20UX%20e%20Metodologias%20%C3%81geis.pdf">Documento</a>
 </br>
 
 
